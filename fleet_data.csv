@@ -1,0 +1,4 @@
+Cab_ID,Vehicle,Status,Current_Driver,Assigned_To,Destination,Expected_Return
+Cab 01,Innova (RJ-14-PA-1234),Available,Ramesh,-,-,-
+Cab 02,Ertiga (RJ-14-PB-5678),Available,Suresh,-,-,-
+Cab 03,Dzire (RJ-14-PC-9012),Maintenance,Unassigned,-,-,-
